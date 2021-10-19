@@ -1,0 +1,14 @@
+.logo {
+    position:absolute
+}
+
+.container{
+    display: flexbox;
+    
+}
+.image1 {
+
+
+    text-align: center;
+    margin: auto;
+}
